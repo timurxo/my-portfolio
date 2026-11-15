@@ -1,1 +1,2 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;550;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+:root{--paper:#f8f7f2;--ink:#242b27;--muted:#62695f;--accent:#526b40;--line:#dedfd5;--mono:'IBM Plex Mono',monospace;font-family:'DM Sans',Arial,sans-serif;color:var(--ink);background:var(--paper);font-synthesis:none}*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:30px}body{margin:0}::selection{background:#d6e1c7}button,a{-webkit-tap-highlight-color:transparent}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media print{:root{background:white}body{font-size:11px}@page{margin:16mm}}
